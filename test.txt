@@ -1,0 +1,4 @@
+untracked // we dont care
+tracked // we care but havent saved
+commited // we have tracked, and saved
+remote // something we have pushed off "site"
